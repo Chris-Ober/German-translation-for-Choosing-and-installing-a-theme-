@@ -54,11 +54,14 @@ And lastly, how do I get support? To get support, make your way to the theme dir
 # Resources
 - Block themes
 - Child themes
-Site Editor
-Template Editor
-Styles Overview
----
+- Site Editor
+- Template Editor
+- Styles Overview
 
+# Practical
+Use WordPress Playground below and add a different block theme of your choice. Remember to look at when the theme was last updated, the active installations, and ratings.
+
+---
 German Translation
 ---
 # Transkript
@@ -117,3 +120,6 @@ Und schließlich: Wie bekommst du Support? Navigiere im Theme‑Verzeichnis zu d
 - Website-Editor
 - Template‑Editor
 - Styles‑Übersicht
+
+# Übung
+Nutze unten die WordPress Playground‑Umgebung und füge ein anderes Block‑Theme deiner Wahl hinzu. Achte dabei darauf, wann das Theme zuletzt aktualisiert wurde, wie viele aktive Installationen es hat und welche Bewertungen es erhalten hat.
