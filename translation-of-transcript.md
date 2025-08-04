@@ -52,8 +52,8 @@ How do I delete a theme? To delete a theme, select the relevant theme; at the bo
 And lastly, how do I get support? To get support, make your way to the theme directory, select the relevant theme, and scroll down to support. The best way to get help with a theme is by going to the theme’s related support forum to ask questions or view other tickets. I trust you will find the right theme that meets all your needs.
 
 # Resources
-Block themes
-Child themes
+- Block themes
+- Child themes
 Site Editor
 Template Editor
 Styles Overview
@@ -112,8 +112,8 @@ Wie löscht man ein Theme? Wähle das gewünschte Theme aus, und unten rechts fi
 Und schließlich: Wie bekommst du Support? Navigiere im Theme‑Verzeichnis zu dem jeweiligen Theme und scrolle herunter bis zum Bereich „Support“. Der beste Weg, Hilfe zu einem Theme zu bekommen, ist über das entsprechende Support‑Forum: Dort kannst du Fragen stellen oder bereits bestehende Tickets einsehen. Ich bin sicher, du findest ein passendes Theme, das all deine Anforderungen erfüllt.
 
 # Ressourcen
-Block‑Themes
-Child‑Themes
-Website-Editor
-Template‑Editor
-Styles‑Übersicht
+- Block‑Themes
+- Child‑Themes
+- Website-Editor
+- Template‑Editor
+- Styles‑Übersicht
