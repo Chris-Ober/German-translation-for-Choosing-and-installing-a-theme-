@@ -80,16 +80,8 @@ Mit dem Website-Editor kannst du auch Templates (Webseitenvorlagen) einrichten. 
 
 Eine tolle neue Funktion ermöglicht es Ihnen auch, ein Block-Theme vor dem Wechsel in der Vorschau anzusehen. Wenn Sie mit der Maus über das Block-Theme fahren, wird eine Schaltfläche für die Live-Vorschau angezeigt. Wenn Sie auf „Live-Vorschau“ klicken, gelangen Sie zum Website-Editor. So können Sie nicht nur eine Vorschau der Website anzeigen, sondern auch einen Eindruck vom Website-Editor gewinnen. Und jetzt können Sie nach Belieben Änderungen oder Anpassungen vornehmen. Ich werde zum Beispiel die Stilvariante ändern und auch die Schriftart des Textes ändern. Jetzt können wir unsere Seiten, unsere Vorlagen usw. erkunden. Wenn Ihnen gefällt, was Sie sehen, haben Sie sogar die Möglichkeit, das Theme und die vorgenommenen Änderungen zu aktivieren und zu speichern.
 
-
-| Spalte 1 | Spalte 2 |
-|----------|----------|
-| ## Klassische Themes | ## test |
-| Ein klassisches Theme verwendet den Block‑Editor nur für Beiträge und Seiten, nicht für das Layout der gesamten Website. Änderungen an Design‑Einstellungen erfolgen über Customizer, Menüs und Widgets. Da klassische Themes schon länger verfügbar sind, gibt es wesentlich mehr Auswahlmöglichkeiten. Werfen wir einen genaueren Blick auf ein Beispiel. Wenn du im Backend zu Design → Themes navigierst, siehst du, dass ich das Theme „Twenty Sixteen“ aktiviert habe. In der Seitenleiste findest du Zugriff auf den Customizer und weitere Optionen. Öffnest du den Customizer, kannst du von dort aus alle Einstellungen deines Themes anpassen. Beachte dabei: Block‑Themes bieten hingegen deutlich mehr Flexibilität für Gestaltung und individuelle Anpassung deiner Website. | Ganz viel text |
-
-############################################# BIS HIER ÜBERSETZT #################
-
-
-
+## Klassische Themes
+Ein klassisches Theme verwendet den Block‑Editor nur für Beiträge und Seiten, nicht für das Layout der gesamten Website. Änderungen an Design‑Einstellungen erfolgen über Customizer, Menüs und Widgets. Da klassische Themes schon länger verfügbar sind, gibt es wesentlich mehr Auswahlmöglichkeiten. Werfen wir einen genaueren Blick auf ein Beispiel. Wenn du im Backend zu Design → Themes navigierst, siehst du, dass ich das Theme „Twenty Sixteen“ aktiviert habe. In der Seitenleiste findest du Zugriff auf den Customizer und weitere Optionen. Öffnest du den Customizer, kannst du von dort aus alle Einstellungen deines Themes anpassen. Beachte dabei: Block‑Themes bieten hingegen deutlich mehr Flexibilität für Gestaltung und individuelle Anpassung deiner Website.
 
 ## Hybrid‑Themes
 Ein Hybrid‑Theme ist ein klassisches Theme, das einige Funktionen des Site Editing übernimmt, wie zum Beispiel den Template‑Editor. Ein Hybrid‑Theme wie „Eksell“ verwendet weiterhin den Customizer zur Anpassung, ermöglicht aber auch das Erstellen eigener Template‑Vorlagen. Öffne dazu eine Seite, gehe in die Einstellungen der Seitenleiste rechts, wähle „Templates“ und du kannst entweder einer Seite ein anderes Template zuweisen oder ein eigenes Template erstellen.
@@ -119,13 +111,9 @@ Wie löscht man ein Theme? Wähle das gewünschte Theme aus, und unten rechts fi
 ## Support erhalten
 Und schließlich: Wie bekommst du Support? Navigiere im Theme‑Verzeichnis zu dem jeweiligen Theme und scrolle herunter bis zum Bereich „Support“. Der beste Weg, Hilfe zu einem Theme zu bekommen, ist über das entsprechende Support‑Forum: Dort kannst du Fragen stellen oder bereits bestehende Tickets einsehen. Ich bin sicher, du findest ein passendes Theme, das all deine Anforderungen erfüllt.
 
-
-## Getting support
-And lastly, how do I get support? To get support, make your way to the theme directory, select the relevant theme, and scroll down to support. The best way to get help with a theme is by going to the theme’s related support forum to ask questions or view other tickets. I trust you will find the right theme that meets all your needs.
-
-# Resources
-Block themes
-Child themes
-Site Editor
-Template Editor
-Styles Overview
+# Ressourcen
+Block‑Themes
+Child‑Themes
+Website-Editor
+Template‑Editor
+Styles‑Übersicht
