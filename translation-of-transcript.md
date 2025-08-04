@@ -80,6 +80,9 @@ Mit dem Website-Editor kannst du auch Templates (Webseitenvorlagen) einrichten. 
 
 Eine tolle neue Funktion ermöglicht es Ihnen auch, ein Block-Theme vor dem Wechsel in der Vorschau anzusehen. Wenn Sie mit der Maus über das Block-Theme fahren, wird eine Schaltfläche für die Live-Vorschau angezeigt. Wenn Sie auf „Live-Vorschau“ klicken, gelangen Sie zum Website-Editor. So können Sie nicht nur eine Vorschau der Website anzeigen, sondern auch einen Eindruck vom Website-Editor gewinnen. Und jetzt können Sie nach Belieben Änderungen oder Anpassungen vornehmen. Ich werde zum Beispiel die Stilvariante ändern und auch die Schriftart des Textes ändern. Jetzt können wir unsere Seiten, unsere Vorlagen usw. erkunden. Wenn Ihnen gefällt, was Sie sehen, haben Sie sogar die Möglichkeit, das Theme und die vorgenommenen Änderungen zu aktivieren und zu speichern.
 
+
+| Spalte 1 | Spalte 2 |
+|----------|----------|
 | ## Klassische Themes | ## test |
 | Ein klassisches Theme verwendet den Block‑Editor nur für Beiträge und Seiten, nicht für das Layout der gesamten Website. Änderungen an Design‑Einstellungen erfolgen über Customizer, Menüs und Widgets. Da klassische Themes schon länger verfügbar sind, gibt es wesentlich mehr Auswahlmöglichkeiten. Werfen wir einen genaueren Blick auf ein Beispiel. Wenn du im Backend zu Design → Themes navigierst, siehst du, dass ich das Theme „Twenty Sixteen“ aktiviert habe. In der Seitenleiste findest du Zugriff auf den Customizer und weitere Optionen. Öffnest du den Customizer, kannst du von dort aus alle Einstellungen deines Themes anpassen. Beachte dabei: Block‑Themes bieten hingegen deutlich mehr Flexibilität für Gestaltung und individuelle Anpassung deiner Website. | Ganz viel text |
 
